@@ -1,0 +1,1 @@
+I'll be using diff command by using this file i.e text2.txt
