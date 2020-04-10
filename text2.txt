@@ -1,7 +1,0 @@
-I'll be using diff command by using this file i.e text2.txt
-
-changes
-
-second time changes
-
-third time change
