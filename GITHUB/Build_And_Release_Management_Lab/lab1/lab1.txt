@@ -1,1 +1,0 @@
-Install Eclipse and configure maven
