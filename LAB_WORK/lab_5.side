@@ -1,0 +1,104 @@
+{
+  "id": "0ef9e16e-011e-4ea3-a910-ed447c608286",
+  "version": "2.0",
+  "name": "lab_5.0",
+  "url": "https://www.google.co.in",
+  "tests": [{
+    "id": "4a4cc21a-55ad-4ffa-9394-ef111e028892",
+    "name": "test_5.0",
+    "commands": [{
+      "id": "e32b347e-74ca-41b9-905d-05ba1cac3388",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fa224634-f451-41ad-9218-259fc607b9ce",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1853x1053",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f432922a-06ca-42fd-969a-1f33b4e51e5e",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "selenium ide for chrome"
+    }, {
+      "id": "f18bdcb1-d2f4-4dcf-af25-4b637e1b27dd",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sbl1p > span",
+      "targets": [
+        ["css=.sbl1p > span", "css:finder"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div[2]/div[2]/ul/li/div/div[2]/div/span", "xpath:idRelative"],
+        ["xpath=//div[2]/div/span", "xpath:position"],
+        ["xpath=//span[contains(.,'selenium ide for chrome')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4beb022f-46a3-49ae-8517-6bbccfcc45e4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.bkWMgd:nth-child(2) .g:nth-child(1) .LC20lb",
+      "targets": [
+        ["css=.bkWMgd:nth-child(2) .g:nth-child(1) .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div[2]/div/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div/div/a/h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Selenium IDE - Google Chrome')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "e5ffc1fc-769f-41d9-a331-0f62bd7f92e6",
+    "name": "test_5.1",
+    "commands": [{
+      "id": "a43c2847-d0de-492c-bc67-d320fa75f14a",
+      "comment": "",
+      "command": "open",
+      "target": "http://www.google.com",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2f78cd30-7484-48c4-aa62-c587460831dc",
+      "comment": "",
+      "command": "clickAt",
+      "target": "name=q",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0bbc2e55-177e-4fbf-b96a-c671cfe7cebb",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [],
+      "value": "DevOps Tutorial"
+    }, {
+      "id": "91740c59-b34c-4f5e-86d8-877c506d01cc",
+      "comment": "",
+      "command": "clickAt",
+      "target": "name=btnK",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "d59e9a4c-31a0-48c5-8f82-537d443154aa",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["4a4cc21a-55ad-4ffa-9394-ef111e028892"]
+  }],
+  "urls": ["https://www.google.co.in/"],
+  "plugins": []
+}
