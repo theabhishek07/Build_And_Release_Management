@@ -3,8 +3,8 @@ Welcome to Build_And_Release_Management 📋 This Repository was made to maintai
 # You are always welcome to add more or improve any resource in this repository.
 # Steps to follow 📜
 # 1. Fork it 🍴
-You can get your own fork/copy of Build_And_Release_Management by using the Fork button.
-https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png
+You can get your own fork/copy of Build_And_Release_Management by using the `Fork` button.
+![Fork Button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
 # 2. Clone it 👥
 You need to go to your Fork of the Repository and then clone (download) it to local machine using
