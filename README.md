@@ -1,10 +1,10 @@
 # Build_And_Release_Management
-Welcome to Build_And_Release_Management 📋 This Repository was made to maintain various LAB CONTENT,ASSIGNMENTS,STUDY MATERIAL and all the stuff related to Build_And_Release_Management that can be compiled in a single space. This Repository is maintained by theabhishek07 .This is a public Repository and all sorts of contributions to the code are welcomed.
+Welcome to Build_And_Release_Management 📋 This Repository was made to maintain various LAB CONTENT, ASSIGNMENTS, STUDY MATERIAL and all the Build And Release Management related stuff so that they all can be compiled in a single space. This Repository is maintained by theabhishek07 .This is a public Repository and all sorts of contributions to the code are welcomed.
 # You are always welcome to add more or improve any resource in this repository.
 # Steps to follow 📜
 # 1. Fork it 🍴
-You can get your own fork/copy of Build_And_Release_Management by using the Fork button
-:Fork Button:
+You can get your own fork/copy of Build_And_Release_Management by using the Fork button.
+https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png
 
 # 2. Clone it 👥
 You need to go to your Fork of the Repository and then clone (download) it to local machine using
