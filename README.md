@@ -24,7 +24,8 @@ $ git remote add upstream https://github.com/theabhishek07/Build_And_Release_Man
 See the changes using
 
 $ git remote -v origin 
-*https://github.com/Your_Username/Build_And_Release_Management.git (fetch) origin *https://github.com/Your_Username/Build_And_Release_Management.git (push) upstream *https://github.com/theabhishek07/Build_And_Release_Management.git (fetch) upstream *https://github.com/theabhishek07/Build_And_Release_Management.git (push)
+
+*https://github.com/Your_Username/Build_And_Release_Management.git (fetch) origin* *https://github.com/Your_Username/Build_And_Release_Management.git (push) upstream* *https://github.com/theabhishek07/Build_And_Release_Management.git (fetch) upstream* *https://github.com/theabhishek07/Build_And_Release_Management.git (push)*
 
 # 3. Sync with the Remote 🔄
 Always keep your local copy of repository updated with the original repository.
