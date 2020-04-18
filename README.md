@@ -19,7 +19,8 @@ This makes a local copy of repository in your machine.
 
 Once you have cloned the `Build_And_Release_Management` repository in Github, move to that folder first using change directory command on linux and Mac.
 
- `# This will change directory to a folder Build_And_Release_Management                                                                   $ cd Build_And_Release_Management`
+`# This will change directory to a folder Build_And_Release_Management                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         																																																																																																																							
+$ cd Build_And_Release_Management`
 
 Move to this folder for all other commands.
 
@@ -32,10 +33,10 @@ Now, lets add a reference to the original Build_And_Release_Management repositor
 See the changes using
 
 `$ git remote -v
-origin https://github.com/Your_Username/Build_And_Release_Management.git (fetch)                                                      
-origin https://github.com/Your_Username/Build_And_Release_Management.git (push)                                                        
-upstream https://github.com/theabhishek07/Build_And_Release_Management.git (fetch)                                                      
-upstream https://github.com/theabhishek07/Build_And_Release_Management.git (push)`
+ origin https://github.com/Your_Username/Build_And_Release_Management.git (fetch)                                                      
+ origin https://github.com/Your_Username/Build_And_Release_Management.git (push)                                                        
+ upstream https://github.com/theabhishek07/Build_And_Release_Management.git (fetch)                                                      
+ upstream https://github.com/theabhishek07/Build_And_Release_Management.git (push)`
 
 # 3. Sync with the Remote 🔄
 Always keep your local copy of repository updated with the original repository.
