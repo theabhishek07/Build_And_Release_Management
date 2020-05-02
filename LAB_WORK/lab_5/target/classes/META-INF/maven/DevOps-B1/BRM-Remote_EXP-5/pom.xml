@@ -1,0 +1,29 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>DevOps-B1</groupId>
+  <artifactId>BRM-Remote_EXP-5</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+<dependencies>
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-core</artifactId>
+    <version>5.4.15.Final</version>
+</dependency>
+
+ <dependency>
+    <groupId>com.atlassian.mail</groupId>
+    <artifactId>atlassian-mail</artifactId>
+    <version>5.0.0</version>
+</dependency>
+
+</dependencies>
+
+<repositories>
+<repository>
+<id>atlassian</id>
+<name>Atlassian Mail</name>
+<url>https://packages.atlassian.com/maven-public/</url>
+</repository>
+</repositories>
+
+</project>
