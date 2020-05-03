@@ -1,4 +1,4 @@
-# Experiment
+# INDEX
 1.	Create a java project using Maven.
 2.	Unit Testing using Junit tool.
 3.	Maven Build and usage in another Java Project.
